@@ -53,7 +53,7 @@
                     print "Oh boy. This was a hot mess for me. Everything that could have gone wrong did! Including 
                     going to submit this assignment only to find out everything I did in class was somehow not saved,
                     even though I pushed things through to github and heroku. I will take the L for this one. Maybe I will
-                    do better next time!"</p>;
+                    do better next time!</p>";
                     ?>
             
             /* lab1.php 

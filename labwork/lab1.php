@@ -30,7 +30,7 @@
     </head>
     <body>
         <h1>This PHP Stuff Is Wild</h1>
-            <p>Heya! My name is Cayln and I'm in love with web design. I started working for a 
+            <p>Heya! My name is Cayln and I'm in love with web design. I started working for a small
             marketing agency when I got out of college and I discovered how cool web design really
             was. I picked up HTML quickly on the job and that made me realize this stuff wasn't so scary!
             A year later I started taking classes at LBCC because let's face it, I'm not a 

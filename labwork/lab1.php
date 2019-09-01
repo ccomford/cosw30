@@ -55,10 +55,13 @@
                     even though I pushed things through to github and heroku. I will take the L for this one. Maybe I will
                     do better next time!</p>";
                     ?>
-            
-            /* lab1.php 
-            Cayln Comford 
-            8/31/2019 */
+            <?php
+            /* 
+            echo "lab1.php"; 
+            echo "Cayln Comford"; 
+            echo "8/31/2019"; 
+            */
+            ?>
     </body>
     
     
